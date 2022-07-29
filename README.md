@@ -23,14 +23,14 @@ Go to the project directory
 ```bash
   cd Cloud-Hosting-Website
 ```
-## Author and Contact
+## ✍️ Author and 📞 Contact
 - [Akash Srinivasan](https://www.github.com/octokatherine)
     - [Coder Community](https://web.codercommunity.io/user/62d568cb998d86c8883a2766?tab=posts)
     - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083429257499)
     - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_prashanthi/)
     - [![youtube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAv1QdzDgV6MjA60CRtfkIg)
 
-## Features
+## 📝 Features
 
 - Amazing Button Hover transition effects
 - Good Background Image
@@ -38,16 +38,16 @@ Go to the project directory
 - Beautifull UI/UX Design
 - One Pager Website
 
-## What i have learnt By working on this project
+## 🤔 What i have learnt By working on this project
 1. Before tackleing this project i usually tried to copy paste `box-shadow` property in css now understood how it works
 2. Improved in mimicing any project
 3. Became an expert in `::after` and `::before` classes
 4. Got to know about ASCII & Unicode's
 
-## Honest Time to finish the project
+## 😌 Honest Time to finish the project
 
 I had took about 33min. This project made me understand how to make an image as a background (as displaying the whole image). But later i found it looks fine the either way (displaying image partially) 
 
-## Feedback
+## 👀 Feedback
 
 If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
